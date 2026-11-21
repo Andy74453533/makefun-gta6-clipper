@@ -1,6 +1,10 @@
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Andy74453533/makefun-gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Andy74453533/makefun-gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 # Windah Basudara Nyolong Mobil Pertama di GTA VI! — gta6-clipper-01
 
-A 46-second vertical clip for make.fun's bounty **"Clip GTA 6 for the most YouTube views"** ($500, top 20 by views).
+A 46-second vertical clip for make.fun's bounty **"Clip GTA 6 for the most YouTube views"** ($500, top 20 by views). Entry for the bounty at https://make.fun/bounty/gta6-clipper-01.
 
 ## The clip
 
